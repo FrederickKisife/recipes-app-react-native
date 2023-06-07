@@ -24,5 +24,3 @@ To run the app, simply run
 - Beautiful UI Design Kit
 - Compatible with Expo
 - Highly modularized codebase
-
-
